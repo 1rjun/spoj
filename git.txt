@@ -1,0 +1,6 @@
+git config --global.username "1rjun"
+gir config --global.email "email"
+git init porject1
+create file file.txt
+git add file.txt
+git commit -m "my first commit"
